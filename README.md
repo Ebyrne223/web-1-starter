@@ -1,2 +1,1 @@
-# web-1-starter
-Template boiler thing blueprint prototype project
+# DESN 368 WEB DESIGN 1 STARTER TEMPLATE
